@@ -4,12 +4,12 @@ If you want to have a minecraft server that is friendly and clean, then this is 
 
 ### What it does
 
-Anti-swear changes all listed words into hashtags (with a way to add custom words coming soon)
+Anti-swear changes all listed words into hashtags (with a way to add custom words coming soon)<br>
 When the custom words feature is added, you will be able to add them via the config.yml file, or via a command in game!
 
 ### Commands
 
-/noswearing - turns on the Anti-swearing! \n
+/noswearing - turns on the Anti-swearing!<br>
 /swear - allows players to swear!
 
 ### Support or Contact
