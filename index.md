@@ -9,7 +9,7 @@ When the custom words feature is added, you will be able to add them via the con
 
 ### Commands
 
-/noswearing - turns on the Anti-swearing!
+/noswearing - turns on the Anti-swearing! \n
 /swear - allows players to swear!
 
 ### Support or Contact
