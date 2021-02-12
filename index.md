@@ -15,4 +15,4 @@ Coinconomy allows you to have coins in game - with special codes so that people 
 
 ### Support or Contact
 
-Having trouble with coinconomy? Send a dm to orangenal name#7363 on discord for help!
+Having trouble with Coinconomy? Send a dm to orangenal name#7363 on discord for help!
