@@ -10,7 +10,7 @@ Coinconomy allows you to have coins in game - with special codes so that people 
 
 /coingenerate, /cg, /coingen - These allow op's to create new coins to put into the economy, like the money printers the government has!<br>
 /coindelete, /cd, /coindel - These allow op's to delete a coin if they are holding one, and might not be useful unless someone dupes coins!<br>
-/cointrade, /ct - This allows you to trade your coins with another player, so you can buy something from them or sell something to them!
+/cointrade, /ct - This allows you to trade your coins with another player, so you can buy something from them or sell something to them!<br>
 /scam - make a report that you've been scammed to the op's, they'll try and sort this out!
 
 ### Support or Contact
